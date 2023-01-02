@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
